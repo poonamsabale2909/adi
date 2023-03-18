@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-aop-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-aop-5.0.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-aop-5.0.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-aspects-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-aspects-5.0.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-aspects-5.0.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-beans-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-beans-5.0.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-beans-5.0.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-context-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-context-5.0.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-context-5.0.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-context-indexer-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-context-indexer-5.0.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-context-indexer-5.0.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-context-support-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-context-support-5.0.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-context-support-5.0.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-core-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-core-5.0.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-core-5.0.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-expression-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-expression-5.0.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-expression-5.0.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-instrument-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-instrument-5.0.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-instrument-5.0.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-jcl-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-jcl-5.0.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-jcl-5.0.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-jdbc-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-jdbc-5.0.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-jdbc-5.0.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-jms-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-jms-5.0.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-jms-5.0.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-messaging-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-messaging-5.0.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-messaging-5.0.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-orm-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-orm-5.0.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-orm-5.0.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-oxm-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-oxm-5.0.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-oxm-5.0.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-test-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-test-5.0.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-test-5.0.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-tx-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-tx-5.0.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-tx-5.0.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-web-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-web-5.0.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-web-5.0.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-webflux-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-webflux-5.0.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-webflux-5.0.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-webmvc-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-webmvc-5.0.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-webmvc-5.0.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-websocket-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-websocket-5.0.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/JDBC workspace/SpringJar/SpringJar/spring-websocket-5.0.5.RELEASE-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
